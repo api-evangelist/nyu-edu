@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-New York University (NYU) is a private research university in New York City, offering a wide range of undergraduate, graduate, and professional programs across multiple schools and campuses worldwide. The university emphasizes interdisciplinary learning, global engagement, and innovative research, fostering a vibrant academic community that spans arts, sciences, business, law, and more.
+New York University (NYU) is a private research university in New York City, offering a wide range of undergraduate, graduate, and professional programs across multiple campuses worldwide. NYU emphasizes interdisciplinary learning, global engagement, and innovative research, fostering a vibrant academic community that spans fields such as arts, sciences, business, law, and technology. The university provides extensive resources, including libraries, labs, and cultural initiatives, supporting students and faculty in advancing knowledge and societal impact.
 
-**Areas:** Company
+**Areas:** University · Education · Research · NewYork · HigherEducation
 
 ## New York University on APIs.io
 
@@ -86,23 +86,22 @@ Authentication, trust centre, and vulnerability disclosure.
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://www.nyu.edu/)
-- [Documentation](https://www.nyu.edu/about.html)
+- [Website](https://nyu.edu/)
 
 ## API Evangelist rating
 
-**Kin Score 3.2** — minimal · rubric 0.28.0 · scored 2026-11-20
+**Kin Score 1.7** — minimal · rubric 0.28.0 · scored 2026-11-20
 
 | Facet | Score |
 |---|---|
-| Discoverability | 35.7 |
+| Discoverability | 44.6 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 9.5 |
+| Developer ergonomics | 0.0 |
 | Access clarity | 0.0 |
 
-**Agent readiness 6.0** — agent-aware
+**Agent readiness 3.1** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -117,7 +116,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | yes |
+| Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -129,7 +128,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 0.0** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 0.0** — Education & Research
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nyu-edu/](https://apis.io/providers/nyu-edu/).
 
